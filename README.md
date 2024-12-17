@@ -1,70 +1,121 @@
-# Learning Java Language - First Semester
+# Learning Java Programming - First Semester  
 
-This repository documents my journey of learning Java programming during the first semester of my studies. It is organized into modules, each containing practical examples and exercises that correspond to specific topics in the curriculum. Below is an overview of each module and the corresponding files.
-
-## Modules Overview
-
-### Modul_1: Getting Started with Java
-- **Files**:
-  - `Main.java`: My first Java program, a simple introduction to Java syntax.
-  - `MySecondProgramme.java`: Practicing basic concepts with a second program.
-  - `ProgramSederhana.java`: A simple program that explores basic Java functionality.
-
-### Modul_2: Working with Variables and Data Types
-- **Files**:
-  - `Tugas.java`: Tasks to explore data types and variable manipulation.
-
-### Modul_3: Control Flow and Conversion
-- **Files**:
-  - `Konversi.java`: A program that demonstrates data conversion techniques.
-  - `Konversi2.java`: Additional exercises on data conversion.
-  - `KonversiSuhu.java`: A temperature conversion program.
-
-### Modul_5: Decision Making and Loops
-- **Files**:
-  - `Determinan.java`: A program to calculate determinants using conditional statements.
-  - `Latihan.java`: Exercises on decision-making statements.
-
-### Modul_6: Object-Oriented Programming Basics
-- **Files**:
-  - `CaseTV.java`: A case study implementing an object-oriented approach to model a TV.
-  - `Tugas.java`: Practice tasks on classes and objects.
-
-### Modul_7: Loops and Calculations
-- **Files**:
-  - `Latihan.java`: Exercises on loops (`while`, `for`).
-  - `RataRataBilangan.java`: Program to calculate the average of numbers.
-  - `While.java`: Examples using the `while` loop.
-
-### Modul_9: Advanced Loops
-- **Files**:
-  - `Latihan.java`: Additional loop-related exercises.
-  - `OddNumbersInRange.java`: Program to print all odd numbers in a specified range.
-  - `SumBelow100.java`: Program to calculate the sum of numbers below 100.
-
-### Modul_10: Strings and Methods
-- **Files**:
-  - `ContohString.java`: Examples of working with strings in Java.
-  - `Latihan.java`: Practice tasks on string manipulation.
-  - `StringInsert.java`: A program demonstrating string insertion techniques.
-
-### Modul_11: Advanced Java Concepts
-- **Files**:
-  - `Latihan_1.java`: Exercises on advanced Java concepts (e.g., abstraction, interfaces).
-  - `Latihan_2.java`: More exercises to reinforce advanced concepts.
-  - `Tugas.java`: Assigned tasks for deeper understanding of abstraction and interfaces.
+This repository documents my journey of learning **Java programming** during the first semester. It is organized into **16 modules**, each covering key topics in Java programming, complete with practical examples and exercises.
 
 ---
 
-## Learning Goals
-- Build a strong foundation in Java programming.
-- Understand fundamental and advanced programming concepts.
-- Gain hands-on experience by implementing practical examples.
-- Develop problem-solving skills through programming exercises.
+## Modules Overview  
 
-## How to Use This Repository
-Each module contains source files (.java) with exercises and examples. You can explore the code, modify it, and run it to enhance your understanding of the topics. 
+### **Module 1: Algorithms and Programming with NetBeans**  
+Learn the basics of programming and how to set up a Java project using **NetBeans IDE**.  
+- **Topics**: Algorithms, flowcharts, and basic program structure.  
 
 ---
 
-Thank you for visiting my repository! I hope this inspires you to learn Java programming. 😊
+### **Module 2: Java Programming Basics**  
+Explore fundamental concepts of Java programming.  
+- **Topics**: Variables, data types, and basic syntax.  
+
+---
+
+### **Module 3: Operators in Java**  
+Understand and use different types of operators in Java.  
+- **Topics**: Arithmetic, relational, logical, and assignment operators.  
+
+---
+
+### **Module 4: Sequential Programs**  
+Learn the concept of **sequential programming** where code runs line by line.  
+- **Topics**: Program flow and sequential execution.  
+
+---
+
+### **Module 5: If Statements**  
+Use conditional statements to make decisions in Java programs.  
+- **Topics**: `if`, `if-else`, and nested `if` statements.  
+
+---
+
+### **Module 6: Switch Statements**  
+Simplify decision-making using **switch-case** statements.  
+- **Topics**: Switch-case logic for efficient program control.  
+
+---
+
+### **Module 7: Loops with While**  
+Learn to execute code repeatedly using **while loops**.  
+- **Topics**: Loop initialization, condition, and iteration.  
+
+---
+
+### **Module 8: Loops with Do-While**  
+Explore how **do-while** ensures code execution at least once.  
+- **Topics**: Differences between `while` and `do-while` loops.  
+
+---
+
+### **Module 9: Loops with For**  
+Use **for loops** for repeated tasks with clear control.  
+- **Topics**: Loop counters, conditions, and nested loops.  
+
+---
+
+### **Module 10: Strings in Java**  
+Work with **strings** and learn string manipulation techniques.  
+- **Topics**: String methods, concatenation, and operations.  
+
+---
+
+### **Module 11: Methods Without Parameters**  
+Create reusable methods that do not take input parameters.  
+- **Topics**: Method creation and code reusability.  
+
+---
+
+### **Module 12: Methods with Parameters**  
+Implement methods that accept input through parameters.  
+- **Topics**: Passing arguments and returning values.  
+
+---
+
+### **Module 13: Arrays - Single Dimensional**  
+Learn to work with **single-dimensional arrays** in Java.  
+- **Topics**: Array declaration, initialization, and traversal.  
+
+---
+
+### **Module 14: Arrays - Multi-Dimensional**  
+Advance to **multi-dimensional arrays** for more complex data storage.  
+- **Topics**: 2D arrays and matrix operations.  
+
+---
+
+### **Module 15: Classes and Objects I**  
+Dive into **Object-Oriented Programming (OOP)** concepts with classes and objects.  
+- **Topics**: Defining classes, creating objects, and using methods.  
+
+---
+
+### **Module 16: Classes and Objects II**  
+Deepen your understanding of **OOP** with advanced concepts.  
+- **Topics**: Constructors, method overloading, and encapsulation.  
+
+---
+
+## Learning Goals  
+1. Build a strong understanding of **Java programming concepts**.  
+2. Gain proficiency in control structures, loops, and conditionals.  
+3. Master **Object-Oriented Programming** principles.  
+4. Develop problem-solving skills through practical programming exercises.  
+
+---
+
+## How to Use This Repository  
+Each module represents a topic with examples and exercises in **Java**.  
+1. Explore each module sequentially.  
+2. Review the source files and code examples.  
+3. Run the programs and modify the code to practice and experiment.  
+
+---
+
+**Happy coding! I hope this repository helps you on your Java programming journey. 😊**  
