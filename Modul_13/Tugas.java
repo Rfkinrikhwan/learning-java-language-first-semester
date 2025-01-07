@@ -12,13 +12,11 @@ public class Tugas {
         for (int i = 0; i < 5; i++) {
             System.out.print("Data ke-" + (i + 1) + ": ");
             nilai[i] = masuk.nextFloat();
-            jumlah += nilai[i]; // Menjumlahkan nilai
+            jumlah += nilai[i];
         }
 
-        // Inisialisasi nilai terbesar dan terkecil dengan nilai pertama
         terbesar = terkecil = nilai[0];
 
-        // Mencari nilai terbesar dan terkecil
         for (int i = 1; i < 5; i++) {
             if (nilai[i] > terbesar) {
                 terbesar = nilai[i];
@@ -28,10 +26,8 @@ public class Tugas {
             }
         }
 
-        // Menghitung rata-rata
         rataRata = jumlah / nilai.length;
 
-        // Menampilkan hasil
         System.out.println("\nData nilai yang dimasukkan:");
         for (int i = 0; i < 5; i++) {
             System.out.println("Data ke-" + (i + 1) + ": " + nilai[i]);
