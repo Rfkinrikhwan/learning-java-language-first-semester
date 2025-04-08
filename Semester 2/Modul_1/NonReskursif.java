@@ -1,7 +1,7 @@
 public class NonReskursif {
 
     public static void main(String[] args) {
-        System.out.println(faktorialNonReskursif(5));
+        System.out.println(faktorialNonReskursif(10));
     }
 
     public static int faktorialNonReskursif(int n) {
@@ -11,5 +11,4 @@ public class NonReskursif {
         }
         return hasil;
     }
-
 }
